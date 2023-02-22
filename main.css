@@ -1,0 +1,23 @@
+ul.menu {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+ul.menu li {
+    display: inline;
+}
+
+ul.submenu {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+ul.submenu li {
+    display: inline;
+}
+
+li.promo {
+    color:rgb(237, 53, 75);
+}
